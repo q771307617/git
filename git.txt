@@ -1,0 +1,5 @@
+git init 
+git add .
+git commit -m "pro"
+git remote add origin https://github.com/q771307617/zjhy.git
+git push -f https://github.com/q771307617/zjhy.git
